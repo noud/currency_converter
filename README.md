@@ -1,4 +1,4 @@
-# 💱 Currency Converter App
+# 💱 Currency Converter [app](https://en.wikipedia.org/wiki/Application_software)
 
 ![currency-converter](./docs/currency-converter.png?raw=true "currency-converter")
 
