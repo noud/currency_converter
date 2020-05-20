@@ -6,8 +6,7 @@
 
 ## API endpoint to consume
 
-- HTML
-    - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io)
+- [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io) [HTML](https://en.wikipedia.org/wiki/HTML)
 
 ## Tooling
 
