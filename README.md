@@ -6,10 +6,11 @@
 
 ## API endpoint to consume
 
-- HTML with [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) ([blog](https://laravel-news.com/laravel-exchange-rates-api-package))
+- HTML
     - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io)
 
 ## Tooling
 
 - [Laravel](https://github.com/laravel/laravel/blob/master/README.md)
+    -  [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) ([blog](https://laravel-news.com/laravel-exchange-rates-api-package))
 - [Emoji Favicons](https://favicon.io/emoji-favicons) [Currency Exchange](https://favicon.io/emoji-favicons/currency-exchange)
