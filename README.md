@@ -4,7 +4,7 @@
 
 ## [Specification](https://vebcodex.com/how-to-use-laravel-exchange-rates-api-package)
 
-### API endpoints to consume
+## API endpoint to consume
 
 - HTML with [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) ([blog](https://laravel-news.com/laravel-exchange-rates-api-package))
     - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io)
